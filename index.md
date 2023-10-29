@@ -1,58 +1,58 @@
-**Privacy Policy**
+**Datenschutzrichtlinie für iSchool**
 
-Christian Siewers built the iSchool app as a Free app. This SERVICE is provided by Christian Siewers at no cost and is intended for use as is.
+Christian Siewers hat die iSchool-App als kostenlose Anwendung entwickelt. Dieser DIENST wird von Christian Siewers kostenlos angeboten und ist so, wie er ist, zur Nutzung gedacht.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Diese Seite dient dazu, Besucher über meine Richtlinien zur Erhebung, Verwendung und Offenlegung personenbezogener Informationen zu informieren, falls sich jemand dazu entschließt, meinen Dienst zu nutzen.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Wenn Sie sich dafür entscheiden, meinen Dienst zu nutzen, stimmen Sie der Erhebung und Verwendung von Informationen im Zusammenhang mit dieser Richtlinie zu. Die von mir erfassten personenbezogenen Informationen werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Ich werde Ihre Informationen nicht verwenden oder mit anderen teilen, außer wie in dieser Datenschutzrichtlinie beschrieben.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at iSchool unless otherwise defined in this Privacy Policy.
+Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die unter iSchool abrufbar sind, sofern in dieser Datenschutzrichtlinie nicht anders definiert.
 
-**Information Collection and Use**
+**Datenerfassung und Verwendung**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+Für eine bessere Erfahrung kann es erforderlich sein, dass Sie uns bestimmte personenbezogene Informationen zur Verfügung stellen. Die angeforderten Informationen werden auf Ihrem Gerät gespeichert und nicht von mir in irgendeiner Weise erfasst.
 
-**Log Data**
+**Protokolldaten**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Ich möchte Sie informieren, dass ich immer dann, wenn Sie meinen Dienst nutzen und es zu einem Fehler in der App kommt, Daten und Informationen (über Produkte von Drittanbietern) auf Ihrem Telefon erfasse, die als Protokolldaten bezeichnet werden. Diese Protokolldaten können Informationen wie Ihre Geräte-IP-Adresse, den Gerätenamen, die Betriebssystemversion, die Konfiguration der App bei der Nutzung meines Dienstes, Datum und Uhrzeit der Nutzung des Dienstes sowie andere Statistiken enthalten.
 
 **Cookies**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Cookies sind Dateien mit einer kleinen Menge an Daten, die häufig als anonyme eindeutige Identifikatoren verwendet werden. Diese werden an Ihren Browser von den von Ihnen besuchten Websites gesendet und in den internen Speicher Ihres Geräts gespeichert.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Dieser Dienst verwendet diese "Cookies" nicht explizit. Die App kann jedoch Drittanbietercode und -bibliotheken verwenden, die "Cookies" verwenden, um Informationen zu sammeln und ihre Dienste zu verbessern. Sie haben die Möglichkeit, diese "Cookies" entweder zu akzeptieren oder abzulehnen und zu erfahren, wann ein "Cookie" an Ihr Gerät gesendet wird. Wenn Sie sich entscheiden, unsere "Cookies" abzulehnen, können Sie möglicherweise einige Teile dieses Dienstes nicht nutzen.
 
-**Service Providers**
+**Dienstleister**
 
-I may employ third-party companies and individuals due to the following reasons:
+Ich kann Drittanbieterunternehmen und Einzelpersonen aus den folgenden Gründen beauftragen:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*   Um unseren Dienst zu erleichtern;
+*   Um den Dienst in unserem Namen bereitzustellen;
+*   Zur Durchführung dienstbezogener Aufgaben; oder
+*   Um uns bei der Analyse der Nutzung unseres Dienstes zu unterstützen.
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Ich möchte die Benutzer dieses Dienstes darüber informieren, dass diese Drittanbieter Zugriff auf ihre personenbezogenen Informationen haben. Der Grund dafür ist, die ihnen von uns zugewiesenen Aufgaben zu erfüllen. Sie sind jedoch verpflichtet, die Informationen nicht für andere Zwecke offenzulegen oder zu verwenden.
 
-**Security**
+**Sicherheit**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Ich schätze Ihr Vertrauen, uns Ihre persönlichen Informationen zur Verfügung zu stellen, und bemühe mich daher, handelsübliche Mittel zur Sicherung zu verwenden. Bedenken Sie jedoch, dass keine Übertragungsmethode über das Internet oder keine Methode der elektronischen Speicherung zu 100 % sicher und zuverlässig ist, und ich kann keine absolute Sicherheit garantieren.
 
-**Links to Other Sites**
+**Links zu anderen Websites**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Dieser Dienst kann Links zu anderen Websites enthalten. Wenn Sie auf einen Link eines Drittanbieters klicken, werden Sie zu dieser Website weitergeleitet. Beachten Sie, dass diese externen Websites nicht von mir betrieben werden. Daher rate ich Ihnen dringend, die Datenschutzrichtlinien dieser Websites zu überprüfen. Ich habe keine Kontrolle über und übernehme keine Verantwortung für den Inhalt, die Datenschutzrichtlinien oder die Praktiken von Websites oder Diensten von Drittanbietern.
 
-**Children’s Privacy**
+**Datenschutz für Kinder**
 
-I do not knowingly collect personally identifiable information from children. I encourage all children to never submit any personally identifiable information through the Application and/or Services. I encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+Ich erfasse wissentlich keine personenbezogenen Informationen von Kindern. Ich ermutige alle Kinder, niemals personenbezogene Informationen über die Anwendung und/oder Dienste bereitzustellen. Ich ermutige Eltern und rechtliche Vormünder, die Internetnutzung ihrer Kinder zu überwachen und diese Richtlinie durchzusetzen, indem sie ihren Kindern niemals erlauben, personenbezogene Informationen über die Anwendung und/oder Dienste ohne ihre Zustimmung bereitzustellen. Wenn Sie Grund zur Annahme haben, dass ein Kind uns personenbezogene Informationen über die Anwendung und/oder Dienste bereitgestellt hat, kontaktieren Sie uns bitte. Sie müssen auch mindestens 16 Jahre alt sein, um der Verarbeitung Ihrer personenbezogenen Informationen in Ihrem Land zuzustimmen (in einigen Ländern können wir Ihre Eltern oder Vormünder dazu berechtigen).
 
-**Changes to This Privacy Policy**
+**Änderungen dieser Datenschutzrichtlinie**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Ich kann unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Daher wird empfohlen, diese Seite in regelmäßigen Abständen auf Änderungen zu überprüfen. Ich werde Sie über Änderungen informieren, indem ich die neue Datenschutzrichtlinie auf dieser Seite veröffentliche.
 
-This policy is effective as of 2023-10-28
+Diese Richtlinie tritt am 28. Oktober 2023 in Kraft.
 
-**Contact Us**
+**Kontaktieren Sie uns**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at fo-dev@karsie.de.
+Wenn Sie Fragen oder Vorschläge zu meiner Datenschutzrichtlinie haben, zögern Sie nicht, mich unter fo-dev@karsie.de zu kontaktieren.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Diese Datenschutzrichtlinienseite wurde auf [privacypolicytemplate.net](https://privacypolicytemplate.net) erstellt und von [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/) modifiziert/erstellt.
