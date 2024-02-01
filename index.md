@@ -1,58 +1,71 @@
-**Datenschutzrichtlinie für iSchool**
+# Deutsche Version:
+## **Datenschutzerklärung für die App "iSchool"**
 
-Christian Siewers hat die iSchool-App als kostenlose Anwendung entwickelt. Dieser DIENST wird von Christian Siewers kostenlos angeboten und ist so, wie er ist, zur Nutzung gedacht.
+Zuletzt aktualisiert am 31.12.2023
 
-Diese Seite dient dazu, Besucher über meine Richtlinien zur Erhebung, Verwendung und Offenlegung personenbezogener Informationen zu informieren, falls sich jemand dazu entschließt, meinen Dienst zu nutzen.
+Die App "iSchool" wurde von Finn-Ole Siewers entwickelt und von Christian Siewers bereitgestellt. Diese Datenschutzerklärung beschreibt, wie persönliche Informationen gesammelt, verwendet, weitergegeben und geschützt werden, wenn Sie die App "iSchool" verwenden.
 
-Wenn Sie sich dafür entscheiden, meinen Dienst zu nutzen, stimmen Sie der Erhebung und Verwendung von Informationen im Zusammenhang mit dieser Richtlinie zu. Die von mir erfassten personenbezogenen Informationen werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Ich werde Ihre Informationen nicht verwenden oder mit anderen teilen, außer wie in dieser Datenschutzrichtlinie beschrieben.
+### **1. Welche Informationen werden gesammelt?**
 
-Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die unter iSchool abrufbar sind, sofern in dieser Datenschutzrichtlinie nicht anders definiert.
+Die App "iSchool" sammelt keine persönlichen Informationen von den Benutzern, außer den Informationen, die freiwillig über die Funktionen der App bereitgestellt werden. Die App verwendet CloudKit zur Synchronisierung von Daten mit iCloud. Dabei können Daten wie Schulnotizen, Aufgaben oder andere Informationen, die Sie in der App erstellen, mit Ihrem iCloud-Konto synchronisiert werden. Es werden keine sensiblen persönlichen Informationen, wie zum Beispiel Passwörter, von der App gespeichert.
 
-**Datenerfassung und Verwendung**
+### **2. Wie werden die gesammelten Informationen verwendet?**
 
-Für eine bessere Erfahrung kann es erforderlich sein, dass Sie uns bestimmte personenbezogene Informationen zur Verfügung stellen. Die angeforderten Informationen werden auf Ihrem Gerät gespeichert und nicht von mir in irgendeiner Weise erfasst.
+Die gesammelten Informationen werden ausschließlich für den Zweck der Bereitstellung und Verbesserung der App "iSchool" verwendet. Die Verwendung von CloudKit dient lediglich der Synchronisierung von Daten zwischen verschiedenen Geräten, auf denen die App installiert ist, um eine nahtlose Benutzererfahrung zu gewährleisten.
 
-**Protokolldaten**
+### **3. Wie werden die gesammelten Informationen geschützt?**
 
-Ich möchte Sie informieren, dass ich immer dann, wenn Sie meinen Dienst nutzen und es zu einem Fehler in der App kommt, Daten und Informationen (über Produkte von Drittanbietern) auf Ihrem Telefon erfasse, die als Protokolldaten bezeichnet werden. Diese Protokolldaten können Informationen wie Ihre Geräte-IP-Adresse, den Gerätenamen, die Betriebssystemversion, die Konfiguration der App bei der Nutzung meines Dienstes, Datum und Uhrzeit der Nutzung des Dienstes sowie andere Statistiken enthalten.
+Die Sicherheit Ihrer persönlichen Informationen ist uns wichtig. Die App "iSchool" implementiert angemessene Sicherheitsmaßnahmen, um den unbefugten Zugriff, die Offenlegung, Änderung oder Vernichtung Ihrer persönlichen Informationen zu verhindern. Die Verwendung von CloudKit erfolgt gemäß den Sicherheitsstandards von Apple.
 
-**Cookies**
+### **4. Weitergabe von Informationen an Dritte**
 
-Cookies sind Dateien mit einer kleinen Menge an Daten, die häufig als anonyme eindeutige Identifikatoren verwendet werden. Diese werden an Ihren Browser von den von Ihnen besuchten Websites gesendet und in den internen Speicher Ihres Geräts gespeichert.
+Die App "iSchool" gibt Ihre persönlichen Informationen nicht an Dritte weiter, es sei denn, dies ist gesetzlich vorgeschrieben oder erforderlich, um die Funktionalität der App zu gewährleisten (z. B. Cloud-Synchronisation mit iCloud).
 
-Dieser Dienst verwendet diese "Cookies" nicht explizit. Die App kann jedoch Drittanbietercode und -bibliotheken verwenden, die "Cookies" verwenden, um Informationen zu sammeln und ihre Dienste zu verbessern. Sie haben die Möglichkeit, diese "Cookies" entweder zu akzeptieren oder abzulehnen und zu erfahren, wann ein "Cookie" an Ihr Gerät gesendet wird. Wenn Sie sich entscheiden, unsere "Cookies" abzulehnen, können Sie möglicherweise einige Teile dieses Dienstes nicht nutzen.
+### **5. Kontaktinformationen**
 
-**Dienstleister**
+Bei Fragen oder Bedenken zur Datenschutzerklärung der App "iSchool" können Sie Christian Siewers unter der folgenden E-Mail-Adresse kontaktieren: [fo-dev@karsie.de](mailto:fo-dev@karsie.de).
 
-Ich kann Drittanbieterunternehmen und Einzelpersonen aus den folgenden Gründen beauftragen:
+### **6. Änderungen an dieser Datenschutzerklärung**
 
-*   Um unseren Dienst zu erleichtern;
-*   Um den Dienst in unserem Namen bereitzustellen;
-*   Zur Durchführung dienstbezogener Aufgaben; oder
-*   Um uns bei der Analyse der Nutzung unseres Dienstes zu unterstützen.
+Diese Datenschutzerklärung kann aktualisiert werden, um Änderungen in der App oder Änderungen der Datenschutzgesetze zu reflektieren. Benutzer werden über wesentliche Änderungen informiert. Wir empfehlen Ihnen, diese Datenschutzerklärung regelmäßig zu überprüfen.
 
-Ich möchte die Benutzer dieses Dienstes darüber informieren, dass diese Drittanbieter Zugriff auf ihre personenbezogenen Informationen haben. Der Grund dafür ist, die ihnen von uns zugewiesenen Aufgaben zu erfüllen. Sie sind jedoch verpflichtet, die Informationen nicht für andere Zwecke offenzulegen oder zu verwenden.
+Durch die Nutzung der App "iSchool" erklären Sie sich mit den Bestimmungen dieser Datenschutzerklärung einverstanden.
 
-**Sicherheit**
+*Vielen Dank, dass Sie die App "iSchool" verwenden!*
 
-Ich schätze Ihr Vertrauen, uns Ihre persönlichen Informationen zur Verfügung zu stellen, und bemühe mich daher, handelsübliche Mittel zur Sicherung zu verwenden. Bedenken Sie jedoch, dass keine Übertragungsmethode über das Internet oder keine Methode der elektronischen Speicherung zu 100 % sicher und zuverlässig ist, und ich kann keine absolute Sicherheit garantieren.
 
-**Links zu anderen Websites**
 
-Dieser Dienst kann Links zu anderen Websites enthalten. Wenn Sie auf einen Link eines Drittanbieters klicken, werden Sie zu dieser Website weitergeleitet. Beachten Sie, dass diese externen Websites nicht von mir betrieben werden. Daher rate ich Ihnen dringend, die Datenschutzrichtlinien dieser Websites zu überprüfen. Ich habe keine Kontrolle über und übernehme keine Verantwortung für den Inhalt, die Datenschutzrichtlinien oder die Praktiken von Websites oder Diensten von Drittanbietern.
+# English Version:
+## **Privacy Policy for the App "iSchool"**
 
-**Datenschutz für Kinder**
+Last updated on 31.12.2023
 
-Ich erfasse wissentlich keine personenbezogenen Informationen von Kindern. Ich ermutige alle Kinder, niemals personenbezogene Informationen über die Anwendung und/oder Dienste bereitzustellen. Ich ermutige Eltern und rechtliche Vormünder, die Internetnutzung ihrer Kinder zu überwachen und diese Richtlinie durchzusetzen, indem sie ihren Kindern niemals erlauben, personenbezogene Informationen über die Anwendung und/oder Dienste ohne ihre Zustimmung bereitzustellen. Wenn Sie Grund zur Annahme haben, dass ein Kind uns personenbezogene Informationen über die Anwendung und/oder Dienste bereitgestellt hat, kontaktieren Sie uns bitte. Sie müssen auch mindestens 16 Jahre alt sein, um der Verarbeitung Ihrer personenbezogenen Informationen in Ihrem Land zuzustimmen (in einigen Ländern können wir Ihre Eltern oder Vormünder dazu berechtigen).
+The app "iSchool" has been developed by Finn-Ole Siewers and provided by Christian Siewers. This privacy policy describes how personal information is collected, used, disclosed, and protected when you use the "iSchool" app.
 
-**Änderungen dieser Datenschutzrichtlinie**
+### **1. What information is collected?**
 
-Ich kann unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Daher wird empfohlen, diese Seite in regelmäßigen Abständen auf Änderungen zu überprüfen. Ich werde Sie über Änderungen informieren, indem ich die neue Datenschutzrichtlinie auf dieser Seite veröffentliche.
+The "iSchool" app does not collect personal information from users, except for information voluntarily provided through the app's features. The app uses CloudKit to synchronize data with iCloud, allowing data such as school notes, tasks, or other information created in the app to be synchronized with your iCloud account. No sensitive personal information, such as passwords, is stored by the app.
 
-Diese Richtlinie tritt am 28. Oktober 2023 in Kraft.
+### **2. How are the collected information used?**
 
-**Kontaktieren Sie uns**
+The collected information is used solely for the purpose of providing and improving the "iSchool" app. The use of CloudKit is for the synchronization of data between different devices where the app is installed, ensuring a seamless user experience.
 
-Wenn Sie Fragen oder Vorschläge zu meiner Datenschutzrichtlinie haben, zögern Sie nicht, mich unter fo-dev@karsie.de zu kontaktieren.
+### **3. How is the collected information protected?**
 
-Diese Datenschutzrichtlinienseite wurde auf [privacypolicytemplate.net](https://privacypolicytemplate.net) erstellt und von [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/) modifiziert/erstellt.
+The security of your personal information is important to us. The "iSchool" app implements appropriate security measures to prevent unauthorized access, disclosure, alteration, or destruction of your personal information. The use of CloudKit is in accordance with Apple's security standards.
+
+### **4. Disclosure of information to third parties**
+
+The "iSchool" app does not disclose your personal information to third parties unless required by law or necessary to ensure the functionality of the app (e.g., cloud synchronization with iCloud).
+
+### **5. Contact Information**
+
+For questions or concerns regarding the privacy policy of the "iSchool" app, you can contact Christian Siewers at the following email address: [fo-dev@karsie.de](mailto:fo-dev@karsie.de).
+
+### **6. Changes to this Privacy Policy**
+
+This privacy policy may be updated to reflect changes in the app or changes in privacy laws. Users will be informed of significant changes. We recommend checking this privacy policy regularly.
+
+By using the "iSchool" app, you agree to the terms of this privacy policy.
+
+*Thank you for using the "iSchool" app!*
